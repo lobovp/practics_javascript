@@ -1,0 +1,19 @@
+div{
+	margin: 20px auto;
+	width: 300px;
+	height: 200px;
+	border: 1px solid #3a33d1;
+}
+.main-blk2__inner{
+	width: 30px;
+	height: 30px;
+	background-color: chocolate;
+	margin-left: 0;
+	transform: rotate(0deg);
+}
+h2{
+	text-align: center;
+}
+input{
+	margin: 10px 20px;
+}

@@ -1,0 +1,9 @@
+* {
+	font-family: sans-serif;
+	color: red;
+	margin: 20px;
+}
+h1,
+p{
+	text-align: center;
+}

@@ -1,0 +1,28 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+h2{
+	font-weight: bold;
+}
+div{
+	margin: 20px auto;
+	width: 600px;
+	height: auto;
+}
+input,
+button{
+	margin: 10px 10px 0 10px;
+}
+p{
+	margin: 10px 0;
+}
+span{
+	background-color: #fff;
+	margin-bottom: 10px;
+}
+#footer{
+	height: 50px;
+	width: auto;
+	background-color: bisque;
+}

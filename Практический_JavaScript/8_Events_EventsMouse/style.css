@@ -1,0 +1,19 @@
+div{
+	width: 256px;
+	height: 245px;
+	background-color: #d511ff;
+	margin: 10px auto;
+	border: 3px solid #570e99;
+}
+h2{
+	text-align: center;
+}
+p{
+	margin: 0 10px;
+}
+
+.main-block3{
+	background-image: url(img/folder_close1.svg);
+	background-repeat:no-repeat;
+	background-size: 256px;
+}
