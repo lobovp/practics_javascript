@@ -17,7 +17,6 @@ blk1.ondblclick = ()=>{
 //отключение клика правой кнопки мыши
 document.querySelector("body").oncontextmenu = ()=>{
     return false;
-    console.log("J")
 };
 
 
