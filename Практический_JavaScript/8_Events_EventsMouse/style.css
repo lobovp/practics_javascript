@@ -4,7 +4,8 @@ div{
 	margin: 10px auto;
 	border: 3px solid #990518;
 }
-h2{
+h2,
+h3{
 	text-align: center;
 }
 p{

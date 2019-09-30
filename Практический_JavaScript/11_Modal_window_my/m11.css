@@ -1,0 +1,13 @@
+.modal-showw {
+    width: 220px;
+    height: 300px;
+    background: bisque;
+    border-radius: 8px;
+    border: 2px solid #5322134d;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.hide {
+    display: none;
+}

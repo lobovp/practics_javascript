@@ -1,0 +1,23 @@
+.main10{
+	height: 450px;
+	position: relative;
+}
+.modal10{
+	height: 400px;
+	width: 300px;
+	background-color: bisque;
+	border: 3px solid darkgrey;
+	border-radius: 20px;
+	margin: 10px 45%;
+	box-shadow: 0 0 10px black;
+}
+.block-2{
+	width: 150px;
+	margin: 0 auto;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+}
+.hide{
+	display: none;
+}

@@ -1,0 +1,41 @@
+.main11{
+	height: 450px;
+	position: relative;
+}
+.modal-wrap{
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(0,0,0,0.5);
+}
+.modal11{
+	height: 350px;
+	width: 300px;
+	background-color: bisque;
+	border: 3px solid darkgrey;
+	border-radius: 20px;
+	margin: 50px 45%;
+	box-shadow: 0 0 10px black;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: stretch;
+	align-items: center;
+}
+
+.block-2{
+	width: 150px;
+	margin: auto 0 auto 20px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+}
+.modal-close{
+
+}
+.hide{
+	display: none;
+}
